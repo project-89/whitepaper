@@ -1,4 +1,5 @@
-# Project 89: Reality Engineering Initiative
+# Project 89 Whitepaper
+## Reality Engineering Initiative
 
 ```
 "Any sufficiently advanced technology is indistinguishable from magic."
